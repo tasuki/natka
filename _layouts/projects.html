@@ -1,0 +1,15 @@
+---
+layout: base
+---
+
+<div id="projects" class="pure-g">
+{% for project in page.projects %}
+  <div class="pure-u-1-2 pure-u-sm-1-3 pure-u-md-1-4">
+    <div class="pad">
+      <a href="{{ project.url }}">
+        <img src="{{ project.img }}"/>
+      </a>
+    </div>
+  </div>
+{% endfor %}
+</div>

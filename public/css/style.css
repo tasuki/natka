@@ -1,0 +1,55 @@
+html, button, input, select, textarea, .pure-g [class *= "pure-u"] {
+  font-family: Roboto Condensed, sans-serif;
+}
+
+body {
+  max-width: 1080px;
+  padding: 10px;
+  margin: auto;
+  font-size: 1.1em;
+}
+
+.pure-menu-link { color: #444; margin-right: 5px; }
+.pad { line-height: 0; padding: 5px; }
+.pad-text { padding: 0 5px; }
+
+
+/* header */
+#header { font-weight: bold; }
+#header div a { padding: 5px; }
+
+
+/* about */
+#about img {
+  height: 100%;
+  width: 100%;
+}
+
+
+/* projects */
+#projects a {
+  display: block;
+  line-height: 0;
+}
+#projects img {
+  height: 100%;
+  width: 100%;
+}
+
+
+/* project */
+#project img {
+  height: 100%;
+  width: 100%;
+}
+
+
+/* responsive */
+@media screen and (min-width: 25em) {
+  #header { font-size: 1.5em; }
+}
+
+@media screen and (min-width: 35.5em) {
+  #header { font-size: 2em; }
+  .pad-text { padding: 0 7%; }
+}
