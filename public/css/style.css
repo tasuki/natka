@@ -10,6 +10,7 @@ body {
 }
 
 .pure-menu-link { color: #444; margin-right: 5px; }
+.content { margin-top: .5em; }
 .pad { line-height: 0; padding: 5px; }
 .pad-text { padding: 0 5px; }
 
@@ -51,5 +52,5 @@ body {
 
 @media screen and (min-width: 35.5em) {
   #header { font-size: 2em; }
-  .pad-text { padding: 0 7%; }
+  .pad-text { padding: 0 7%; margin-top: -1em; }
 }
