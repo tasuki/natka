@@ -29,6 +29,9 @@ em {
 
 
 /* header */
+#topimg { padding: 0px 5px .5em 5px; }
+#topimg img { width: 100%; }
+
 #header { font-weight: 400; }
 #header div a { padding: 5px; }
 
@@ -64,6 +67,6 @@ em {
 }
 
 @media screen and (min-width: 35.5em) {
-  #header { font-size: 1.5em; }
+  #header { font-size: 1.5em; padding: 10px 0px; }
   .pad-text { padding: 0 7%; margin-top: -1em; }
 }
