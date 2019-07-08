@@ -1,22 +1,22 @@
 ---
 layout: projects
-title: Projekty
+title: Projects
 
 projects:
-  - url: projekt
+  - url: project
     img: https://dummyimage.com/250x250/aaa/fff
-  - url: projekt
+  - url: project
     img: https://dummyimage.com/250x250/aaa/fff
-  - url: projekt
+  - url: project
     img: https://dummyimage.com/250x250/aaa/fff
-  - url: projekt
+  - url: project
     img: https://dummyimage.com/250x250/aaa/fff
-  - url: projekt
+  - url: project
     img: https://dummyimage.com/250x250/aaa/fff
-  - url: projekt
+  - url: project
     img: https://dummyimage.com/250x250/aaa/fff
-  - url: projekt
+  - url: project
     img: https://dummyimage.com/250x250/aaa/fff
-  - url: projekt
+  - url: project
     img: https://dummyimage.com/250x250/aaa/fff
 ---

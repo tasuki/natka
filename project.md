@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Projekt
+title: Project
 img: https://dummyimage.com/710x710/aaa/fff
 images:
   - img: https://dummyimage.com/710x710/aaa/fff
