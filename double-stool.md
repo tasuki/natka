@@ -2,7 +2,6 @@
 layout: project
 class: project
 title: Double Stool
-img: /public/img/double_stool/ds_1.jpg
 format: portrait
 images:
   - img: /public/img/double_stool/ds_1.jpg

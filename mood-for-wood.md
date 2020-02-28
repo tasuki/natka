@@ -2,7 +2,6 @@
 layout: project
 class: project
 title: Mood for Wood
-img: /public/img/mood_for_wood/r_1.jpg
 images:
   - img: /public/img/mood_for_wood/r_1.jpg
     thumb: /public/img/mood_for_wood/r_1.jpg

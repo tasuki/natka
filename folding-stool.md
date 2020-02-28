@@ -2,7 +2,6 @@
 layout: project
 class: project
 title: Folding Stool
-img: /public/img/folding_stool/fs_1.jpg
 images:
   - img: /public/img/folding_stool/fs_1.jpg
     thumb: /public/img/folding_stool/fs_1.jpg
