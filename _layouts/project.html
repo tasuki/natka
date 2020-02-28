@@ -1,6 +1,7 @@
 ---
 layout: base
 ---
+
 {% if page.format == 'portrait' %}
 {% assign pic_class = 'pure-u-md-3-5' %}
 {% assign text_class = 'pure-u-md-2-5' %}
@@ -11,14 +12,16 @@ layout: base
 
 <div id="project" class="pure-g">
   <div class="pure-u-1-1 {{ pic_class }}">
-    <div class="pad">
+    <div id="project-image" class="pad">
       <img src="{{ page.images.first.img }}"/>
     </div>
-    <div class="pure-g">
+    <div id="project-thumbs" class="pure-g">
     {% for image in page.images %}
       <div class="pure-u-1-5">
         <div class="pad">
-          <img src="{{ image.thumb }}"/>
+          <a href="{{ image.img }}">
+            <img src="{{ image.thumb }}"/>
+          </a>
         </div>
       </div>
     {% endfor %}

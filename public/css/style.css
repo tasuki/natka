@@ -65,10 +65,8 @@ em {
 
 
 /* project */
-#project img {
-  height: 100%;
-  width: 100%;
-}
+#project img { height: 100%; width: 100%; }
+#project-thumbs a { display: block; }
 
 
 /* responsive */
