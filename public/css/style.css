@@ -30,7 +30,7 @@ em {
 
 /* header */
 #top {
-  height: 405px;
+  height: 300px;
   padding: 0px 5px .5em 5px;
 }
 #topimg {
@@ -38,9 +38,9 @@ em {
   height: 100%;
   background-image: url("/public/img/rysowanie.jpg");
   background-size: cover;
+  background-position: left 30% bottom 5%;
 }
-.project #top { height: 200px; }
-.project #topimg { background-position: left 30% bottom 5%; }
+.project #top { height: 100px; }
 
 #header { font-weight: 400; }
 #header div a { padding: 5px; }
@@ -77,4 +77,9 @@ em {
 @media screen and (min-width: 35.5em) {
   #header { font-size: 1.5em; padding: 10px 0px; }
   .pad-text { padding: 0 7%; margin-top: -1em; }
+}
+
+@media screen and (min-width: 48em) {
+  #top { height: 405px }
+  .project #top { height: 200px }
 }
