@@ -29,8 +29,19 @@ em {
 
 
 /* header */
-#topimg { padding: 0px 5px .5em 5px; }
-#topimg img { width: 100%; }
+#top {
+  width: 1070px;
+  height: 405px;
+  padding: 0px 5px .5em 5px;
+}
+#topimg {
+  width: 100%;
+  height: 100%;
+  background-image: url("/public/img/rysowanie.jpg");
+  background-size: cover;
+}
+.project #top { height: 200px; }
+.project #topimg { background-position: left 0% bottom 5%; }
 
 #header { font-weight: 400; }
 #header div a { padding: 5px; }
