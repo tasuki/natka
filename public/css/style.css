@@ -4,7 +4,7 @@ html, button, input, select, textarea, .pure-g [class *= "pure-u"] {
 }
 
 body {
-  max-width: 1080px;
+  max-width: 1320px;
   padding: 0px 10px 10px 10px;
   margin: auto;
   font-size: 1.1em;
@@ -29,18 +29,16 @@ em {
 
 
 /* header */
-#top {
-  height: 300px;
-  padding: 0px 5px .5em 5px;
-}
+#top { height: 300px; padding: 0px 5px .5em 5px; }
+.project #top { height: 100px; }
 #topimg {
   width: 100%;
   height: 100%;
+  opacity: 35%;
   background-image: url("/public/img/rysowanie.jpg");
   background-size: cover;
-  background-position: left 30% bottom 5%;
+  background-position: left 30% bottom 10%;
 }
-.project #top { height: 100px; }
 
 #header { font-weight: 400; }
 #header div a { padding: 5px; }
