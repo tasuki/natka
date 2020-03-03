@@ -4,7 +4,7 @@ html, button, input, select, textarea, .pure-g [class *= "pure-u"] {
 }
 
 body {
-  max-width: 1320px;
+  max-width: 1600px;
   padding: 0px 10px 10px 10px;
   margin: auto;
   font-size: 1.1em;
@@ -67,17 +67,24 @@ em {
 #project-thumbs a { display: block; }
 
 
-/* responsive */
+/* tiny mobile device - show one column */
 @media screen and (min-width: 25em) {
   #header { font-size: 1em; }
 }
 
+/* sm: larger device - space around text */
 @media screen and (min-width: 35.5em) {
   #header { font-size: 1.5em; padding: 10px 0px; }
-  .pad-text { padding: 0 7%; margin-top: -1em; }
+  .pad-text { padding: 0 7%; }
 }
 
+/* md: large device - text on the right */
 @media screen and (min-width: 48em) {
+  .pad-text { margin-top: -1em; }
+}
+
+/* lg: largest device - images on the right */
+@media screen and (min-width: 64em) {
   #top { height: 405px }
   .project #top { height: 200px }
 }
