@@ -4,9 +4,15 @@ title: Projects
 
 projects:
   - url: /folding-stool
-    img: folding_stool/fs_1.jpg
+    img: 1_folding_stool/fs_1.jpg
   - url: /double-stool
-    img: double_stool/ds_thumb.jpg
+    img: 2_double_stool/ds_thumb.jpg
   - url: /mood-for-wood
-    img: mood_for_wood/r_1.jpg
+    img: 3_mood_for_wood/mfw_1.jpg
+  - url: /orkiestrofon
+    img: 4_orkiestrofon/o1.jpg
+  - url: /easy-workshop
+    img: 5_easy_workshop/1.jpg
+  - url: /dotyk
+    img: 6_dotyk/1.jpg
 ---
