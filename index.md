@@ -15,6 +15,6 @@ projects:
     img: 5_easy_workshop/1.jpg
   - url: /dotyk
     img: 6_dotyk/1.jpg
-  - url: /dotyk
-    img: 6_dotyk/1.jpg
+  - url: /swietlik
+    img: 7_swietlik/s_1.jpg
 ---

@@ -13,8 +13,20 @@ images:
   - img: 1_flap_stool/fs_8.gif
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**FLAP stool**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Folding stool designed for narrow and small spaces - the form results from the function. Made entirely of plywood.
+
+Project "Flap stool" was qualified for the post-competition exhibition ["Młodzi na Start" ELLE DECORATION within Gdynia Design Days](https://www.elle.pl/decoration/artykul/wystawa-pokonkursowa-mlodzi-na-start-2019-190705024501). The exhibition lasts until the 14th of July.
+
+Photos: Justyna Żak, Klaudia Jelonek
+
+
+> **FLAP stool**
+>
+> Składany stołek przeznaczony do wąskich i małych przestrzeni - forma wynika z funkcji. W całości wykonany ze sklejki.
+>
+> Projekt "Flap stool" został zakwalifikowany do wystawy pokonkursowej ["Młodzi na Start" ELLE DECORATION w ramach Gdynia Design Days](https://www.elle.pl/decoration/artykul/wystawa-pokonkursowa-mlodzi-na-start-2019-190705024501). Wystawę można oglądać do 14 lipca.
+>
+> Zdjęcia: Justyna Żak, Klaudia Jelonek

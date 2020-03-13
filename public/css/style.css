@@ -66,6 +66,11 @@ em {
 #project img { height: 100%; width: 100%; }
 #project-thumbs a { display: block; }
 
+#project blockquote { margin: 3em 0em; color: #999; }
+
+#project a:link, #project a:visited  { color: #000; }
+#project blockquote a:link, #project blockquote a:visited { color: #999; }
+
 
 /* tiny mobile device - show one column */
 @media screen and (min-width: 25em) {

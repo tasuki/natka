@@ -18,8 +18,49 @@ images:
   - img: 3_mood_for_wood/mfw_13.jpg
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Birdwatching spot**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Bird watching spot at Lake Rusałka. The group project was created as part of 5th edition of the international Mood for Wood workshop.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Student participants:
+Igor Jansen,
+Jan Krise,
+Ola Darwaj,
+Klára Kubičková,
+Natalia Wiśniewska,
+Krystýnka Brovdij,
+Júlia Hegymegi,
+Krisztián Vnučko,
+Tymon Wolender,
+Agata Holdenmajer,
+Kamila Melka
+
+Tutor: Karol Szparkowski  
+Photos: Dawıd Majewski
+
+[http://www.moodforwood.com/](http://www.moodforwood.com/)  
+[http://www.facebook.com/moodforwoodworkshop](https://www.facebook.com/moodforwoodworkshop/posts/2179460472163435)
+
+
+> **Birdwatching spot**
+>
+> Punkt do obserwacji ptaków nad jeziorem Rusałka. Projekt grupowy, powstał w ramach 5-tej edycji warsztatów międzynarodowych Mood for Wood.
+>
+> Uczestnicy:
+> Igor Jansen,
+> Jan Krise,
+> Ola Darwaj,
+> Klára Kubičková,
+> Natalia Wiśniewska,
+> Krystýnka Brovdij,
+> Júlia Hegymegi,
+> Krisztián Vnučko,
+> Tymon Wolender,
+> Agata Holdenmajer,
+> Kamila Melka
+>
+> Prowadzący: Karol Szparkowski  
+> Photos: Dawıd Majewski
+>
+> [http://www.moodforwood.com/](http://www.moodforwood.com/)  
+> [http://www.facebook.com/moodforwoodworkshop](https://www.facebook.com/moodforwoodworkshop/posts/2179460472163435)

@@ -12,4 +12,15 @@ images:
   - img: 4_orkiestrofon/o7-info.gif
 ---
 
-Lorem ipsum Natka dodaj teksty!
+**Orkiestrofon**
+
+Visual identification - logo and graphic design of the radio program, which is run by Joanna Kołodziejska and implemented by Łukasz Dziedziuch.
+
+[https://www.facebook.com/radioluzorkiestrofon/](https://www.facebook.com/radioluzorkiestrofon/)
+
+
+> **Orkiestrofon**
+>
+> Identyfikacja wizualna - projekt logo i szaty graficznej audycji radiowej, którą prowadzi Joanna Kołodziejska, a realizuje Łukasz Dziedziuch.
+>
+> [https://www.facebook.com/radioluzorkiestrofon/](https://www.facebook.com/radioluzorkiestrofon/)
