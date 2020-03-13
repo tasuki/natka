@@ -10,14 +10,14 @@ for i in `cd "$SRC" && find . -type d`; do
   mkdir -p "$TMB/$i"
 done
 
+IMAGES=`cd "$SRC" && find . -regex '.*\.\(jpg\|gif\)'`
+
 # convert images
-for i in `cd "$SRC" && find . -type f`; do
+for i in $IMAGES; do
   convert "$SRC/$i" -colorspace RGB -resize 2000x2000\> -quality 70 "$DST/$i"
 done
 
 # convert thumbnails
-for i in `cd "$SRC" && find . -type f`; do
+for i in $IMAGES; do
   convert "$SRC/$i" -colorspace RGB -resize 400x400\> -quality 70 "$TMB/$i"
 done
-
-# for i in `cd "$SRC" && find . -type f`; do THUMB=`echo "$i" | sed 's:\(.*\)\.\(.*\):\1_thumb.\2:'`; ; done
