@@ -11,7 +11,6 @@ images:
   - img: 3_mood_for_wood/mfw_6.jpg
   - img: 3_mood_for_wood/mfw_7.jpg
   - img: 3_mood_for_wood/mfw_8.jpg
-  - img: 3_mood_for_wood/mfw_9.jpg
   - img: 3_mood_for_wood/mfw_10.jpg
   - img: 3_mood_for_wood/mfw_11.jpg
   - img: 3_mood_for_wood/mfw_12.jpg

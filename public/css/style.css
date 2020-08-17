@@ -4,10 +4,12 @@ html, button, input, select, textarea, .pure-g [class *= "pure-u"] {
 }
 
 body {
+  color: #333;
   max-width: 1600px;
   padding: 0px 10px 10px 10px;
   margin: auto;
   font-size: 1.1em;
+  line-height: 1.4em;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -22,9 +24,12 @@ em {
   font-style: italic;
 }
 
-.pure-menu-link { color: #444; margin-right: 5px; }
+blockquote { margin: 3em 0em; color: #999; }
+
+.pure-menu-link { color: #111; margin-right: 5px; }
 .content { margin-top: .5em; }
 .pad { line-height: 0; padding: 5px; }
+.pad-more { line-height: 0; padding: 20px; }
 .pad-text { padding: 0 5px; }
 
 
@@ -44,12 +49,17 @@ em {
 #header div a { padding: 5px; }
 
 
-/* about */
-#about img {
-  height: 100%;
-  width: 100%;
-}
+/* columns */
+#columns img { height: 100%; width: 100%; }
 
+.column-eng, .column-pol { padding: 10px; }
+.column-pol { color: #999; }
+
+.mailme { font-size: 1.6em; }
+.mailme a:link, .mailme a:visited  { color: #333; }
+
+.social { color: #444; font-size: 4em; margin: 0; }
+.social a:link, .social a:visited { color: #444; }
 
 /* projects */
 #projects a {
@@ -66,21 +76,24 @@ em {
 #project img { height: 100%; width: 100%; }
 #project-thumbs a { display: block; }
 
-#project blockquote { margin: 3em 0em; color: #999; }
-
-#project a:link, #project a:visited  { color: #000; }
+#project a:link, #project a:visited  { color: #333; }
 #project blockquote a:link, #project blockquote a:visited { color: #999; }
 
 
+/* super tiny */
+@media screen and (min-width: 20em) {
+  #columns img { height: 60%; width: 60%; }
+}
+
 /* tiny mobile device - show one column */
 @media screen and (min-width: 25em) {
-  #header { font-size: 1em; }
 }
 
 /* sm: larger device - space around text */
 @media screen and (min-width: 35.5em) {
   #header { font-size: 1.5em; padding: 10px 0px; }
   .pad-text { padding: 0 7%; }
+  #columns img { height: 100%; width: 100%; }
 }
 
 /* md: large device - text on the right */
@@ -92,4 +105,5 @@ em {
 @media screen and (min-width: 64em) {
   #top { height: 405px }
   .project #top { height: 200px }
+  #achievements p.item { min-height: 160px; }
 }
