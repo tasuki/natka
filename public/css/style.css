@@ -37,13 +37,14 @@ blockquote { margin: 3em 0em; color: #999; }
 #top { height: 300px; padding: 0px 5px .5em 5px; }
 .project #top { height: 100px; }
 #topimg {
+  display: flex;
   width: 100%;
   height: 100%;
-  opacity: 35%;
   background-image: url("/public/img/rysowanie.jpg");
   background-size: cover;
   background-position: left 30% bottom 10%;
 }
+#topimg img { text-align: center; margin: auto; padding-top: 100px; max-width: 80%; }
 
 #header { font-weight: 400; }
 #header div a { padding: 5px; }
@@ -92,13 +93,13 @@ blockquote { margin: 3em 0em; color: #999; }
 /* sm: larger device - space around text */
 @media screen and (min-width: 35.5em) {
   #header { font-size: 1.5em; padding: 10px 0px; }
-  .pad-text { padding: 0 7%; }
+  .pad-text { margin-top: -1em; padding: 0 7%; }
   #columns img { height: 100%; width: 100%; }
+  #topimg img { max-width: 500px; }
 }
 
 /* md: large device - text on the right */
 @media screen and (min-width: 48em) {
-  .pad-text { margin-top: -1em; }
 }
 
 /* lg: largest device - images on the right */
