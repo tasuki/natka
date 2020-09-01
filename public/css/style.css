@@ -33,6 +33,7 @@ blockquote { margin: 3em 0em; color: #999; }
 .pad-more { line-height: 0; padding: 20px; }
 .pad-text { padding: 0 5px; }
 
+a:hover img { opacity: 80%; }
 
 /* header */
 #top { height: 300px; padding: 0px 5px .5em 5px; }
@@ -64,14 +65,8 @@ blockquote { margin: 3em 0em; color: #999; }
 .social a:link, .social a:visited { color: #444; }
 
 /* projects */
-#projects a {
-  display: block;
-  line-height: 0;
-}
-#projects img {
-  height: 100%;
-  width: 100%;
-}
+#projects a { display: block; line-height: 0; }
+#projects img { height: 100%; width: 100%; }
 
 
 /* project */
