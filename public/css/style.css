@@ -58,7 +58,6 @@ blockquote { margin: 3em 0em; color: #999; }
 .column-eng, .column-pol { padding: 10px; }
 .column-pol { color: #999; }
 
-.mailme { font-size: 1.6em; }
 .mailme a:link, .mailme a:visited  { color: #333; }
 
 .social { color: #444; font-size: 4em; margin: 0; }
@@ -98,6 +97,7 @@ blockquote { margin: 3em 0em; color: #999; }
   .pad-text { margin-top: -1em; padding: 0 7%; }
   #columns img { height: 100%; width: 100%; }
   #topimg img { max-width: 500px; }
+  .mailme { font-size: 1.3em; }
 }
 
 /* md: large device - text on the right */
@@ -108,5 +108,5 @@ blockquote { margin: 3em 0em; color: #999; }
 @media screen and (min-width: 64em) {
   #top { height: 405px }
   .project #top { height: 200px }
-  #achievements p.item { min-height: 160px; }
+  #awards p.item { min-height: 160px; }
 }

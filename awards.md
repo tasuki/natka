@@ -1,13 +1,13 @@
 ---
 layout: columns
-title: Achievements
-img: /public/img/achievements.jpg
+title: Awards
+img: /public/img/awards.jpg
 ---
 
-<div id="achievements" class="pure-g">
+<div id="awards" class="pure-g">
 
 <div class="pure-u-1-1 pure-u-lg-1-2"><div class="column-eng">
-<p><strong>Achievements</strong></p>
+<p><strong>Awards</strong></p>
 
 <p class="item">
 <strong>8 edycja Konkursu Młodzi na Start</strong><br/>
