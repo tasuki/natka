@@ -29,7 +29,7 @@ blockquote { margin: 3em 0em; color: #999; }
 .pure-menu-horizontal { white-space: normal; }
 .pure-menu-link { color: #111; margin-right: 5px; }
 .content { margin-top: .5em; }
-.pad { line-height: 0; padding: 5px; }
+.pad { position: relative; line-height: 0; padding: 5px; }
 .pad-more { line-height: 0; padding: 20px; }
 .pad-text { padding: 0 5px; }
 
@@ -71,6 +71,7 @@ a:hover img { opacity: 80%; }
 
 /* project */
 #project img { height: 100%; width: 100%; }
+#project #spinner { color: #FFF; display: none; font-size: 5em; position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); }
 #project-thumbs a { display: block; }
 
 #project a:link, #project a:visited  { color: #333; }
