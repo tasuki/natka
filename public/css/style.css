@@ -65,7 +65,13 @@ a:hover img { opacity: 80%; }
 
 /* project */
 #project img { height: 100%; width: 100%; }
-#project #spinner { color: #FFF; display: none; font-size: 5em; position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); }
+#project .icon { color: #FFF; position: absolute; text-shadow: 0 0 .15em #999; }
+#project #spinner { display: none; font-size: 3em; left: 50%; top: 50%; transform: translate(-50%, -50%); }
+#project .show-arrow { font-size: 2em; top: 50%; transform: translate(0%, -50%); }
+#project .show-arrow a { padding: .5em; }
+#project .show-arrow a:link, #project .show-arrow a:visited  { color: #FFF; }
+#show-prev { left: 2%; }
+#show-next { right: 2%; }
 #project-thumbs a { display: block; }
 
 #project a:link, #project a:visited  { color: #333; }
