@@ -12,17 +12,11 @@ body {
   line-height: 1.4em;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  font-weight: 400;
-}
+h1, h2, h3, h4, h5, h6 { font-weight: 400; }
 
-strong {
-  font-weight: 400;
-}
+strong { font-weight: 400; }
 
-em {
-  font-style: italic;
-}
+em { font-style: italic; }
 
 blockquote { margin: 3em 0em; color: #999; }
 
@@ -36,7 +30,7 @@ blockquote { margin: 3em 0em; color: #999; }
 a:hover img { opacity: 80%; }
 
 /* header */
-#top { height: 300px; padding: 0px 5px .5em 5px; }
+#top { height: 200px; padding: 0px 5px .5em 5px; }
 .project #top { height: 100px; }
 #topimg {
   display: flex;
@@ -46,8 +40,8 @@ a:hover img { opacity: 80%; }
   background-size: cover;
   background-position: left 30% bottom 10%;
 }
-#topimg img { text-align: center; margin: auto; padding-top: 100px; max-height: 60%; max-width: 80%; }
-.project #topimg img { padding: 0; }
+#topimg img { text-align: center; margin: auto; padding-top: 70px; max-height: 40%; max-width: 80%; }
+.project #topimg img { padding: 0; max-height: 60%; }
 
 #header { font-weight: 400; }
 #header div a { padding: 5px; }
@@ -92,17 +86,19 @@ a:hover img { opacity: 80%; }
   #header { font-size: 1.5em; padding: 10px 0px; }
   .pad-text { margin-top: -1em; padding: 0 7%; }
   #columns img { height: 100%; width: 100%; }
-  #topimg img { max-width: 500px; }
+  #project #spinner { font-size: 5em; }
+  #project .show-arrow { font-size: 3em; }
   .mailme { font-size: 1.3em; }
 }
 
 /* md: large device - text on the right */
 @media screen and (min-width: 48em) {
+  .project #top { height: 150px; }
 }
 
 /* lg: largest device - images on the right */
 @media screen and (min-width: 64em) {
-  #top { height: 405px }
-  .project #top { height: 200px }
+  #top { height: 280px }
+  .project #top { height: 200px; }
   #awards p.item { min-height: 160px; }
 }
