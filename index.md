@@ -5,8 +5,8 @@ title: Projects
 projects:
   - url: /flap-stool
     img: 1_flap_stool/fs_1.jpg
-  - url: /double-stool
-    img: 2_double_stool/ds_thumb.jpg
+  - url: /hop-stool
+    img: 2_hop_stool/ds_thumb.jpg
   - url: /mood-for-wood
     img: 3_mood_for_wood/mfw_1.jpg
   - url: /orkiestrofon

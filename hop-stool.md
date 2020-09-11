@@ -1,18 +1,18 @@
 ---
 layout: project
 class: project
-title: Double Stool
+title: Hop Stool
 format: portrait
 images:
-  - img: 2_double_stool/ds_1.jpg
-  - img: 2_double_stool/ds_2.jpg
-  - img: 2_double_stool/ds_3.jpg
-  - img: 2_double_stool/ds_4.jpg
-  - img: 2_double_stool/ds_5.jpg
-  - img: 2_double_stool/ds_6.jpg
-  - img: 2_double_stool/ds_7.jpg
-  - img: 2_double_stool/ds_8.jpg
-  - img: 2_double_stool/ds_9.jpg
+  - img: 2_hop_stool/ds_1.jpg
+  - img: 2_hop_stool/ds_2.jpg
+  - img: 2_hop_stool/ds_3.jpg
+  - img: 2_hop_stool/ds_4.jpg
+  - img: 2_hop_stool/ds_5.jpg
+  - img: 2_hop_stool/ds_6.jpg
+  - img: 2_hop_stool/ds_7.jpg
+  - img: 2_hop_stool/ds_8.jpg
+  - img: 2_hop_stool/ds_9.jpg
 ---
 
 
