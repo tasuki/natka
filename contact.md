@@ -1,7 +1,7 @@
 ---
 layout: columns
 title: Contact
-img: https://dummyimage.com/350x350/aaa/fff
+img: /public/img/contact.jpg
 ---
 
 <p class="mailme"><a href="mailto:wisniewska.productdesign@gmail.com">wisniewska.productdesign@gmail.com</a></p>
