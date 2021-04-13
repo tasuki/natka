@@ -8,7 +8,7 @@ img: /public/img/natka.jpg
 
 <div class="pure-u-1-1 pure-u-lg-1-2"><div class="column-eng">
 <p><strong>About me</strong></p>
-<p>When designing, I am very close to the maxim formulated by American architect Louis Henry Sullivan - Form fallows function. Working with material is important to me - learning its pros and cons. I pay special attention to detail and finish. However, I try to find inspiration in nature and the reality that surrounds me.</p>
+<p>When designing, I am very close to the maxim formulated by American architect Louis Henry Sullivan - form follows function. Working with material is important to me - learning its pros and cons. I pay special attention to detail and finish. However, I try to find inspiration in nature and the reality that surrounds me.</p>
 <p>Photo: Klaudia Jelonek</p>
 </div></div>
 
